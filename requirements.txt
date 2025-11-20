@@ -1,0 +1,53 @@
+# FastAPI and server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+websockets==12.0
+
+# Database
+sqlmodel==0.0.14
+sqlalchemy[asyncio]==2.0.25
+aiosqlite==0.19.0
+asyncpg==0.29.0  # For Postgres support
+
+# Twilio
+twilio==8.11.0
+
+# STT providers
+deepgram-sdk==3.2.0
+openai==1.10.0  # For Whisper API option
+
+# TTS providers
+elevenlabs==0.2.27
+
+# LLM providers
+openai==1.10.0
+anthropic==0.18.0
+google-generativeai==0.8.3
+
+# Google Calendar
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.115.0
+
+# Utilities
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Redis (optional)
+redis[hiredis]==5.0.1
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+httpx==0.26.0  # For testing FastAPI
+
+# Linting and formatting (dev)
+black==23.12.1
+flake8==7.0.0
+mypy==1.8.0
+isort==5.13.2
+
