@@ -1,69 +1,58 @@
 {
   "hours": {
     "question": "What are your office hours?",
-    "answer": "We're open Monday through Friday, 8:00 AM to 5:00 PM. We're closed on weekends and major holidays."
+    "answer": "Excel Cardiac Care is open Monday through Friday from 8:00 AM to 5:00 PM, and we are closed on Saturdays and Sundays."
   },
-  "location": {
-    "question": "Where are you located?",
-    "answer": "Our office is located at 123 Main Street, Suite 100, Dallas, TX 75201. We're in the medical plaza next to Central Hospital."
+  "locations": {
+    "question": "Where are your clinics located?",
+    "answer": "We see patients at two cardiology clinics: 4400 Heritage Trace Pkwy, Suite 208, Keller, TX 76244 and 1502 S FM 51, Suite B, Decatur, TX 76234."
   },
-  "directions": {
-    "question": "How do I get to your office?",
-    "answer": "We're located at 123 Main Street in downtown Dallas. Parking is available in the building garage. Enter from Oak Street and take a parking ticket at the gate."
+  "phone_numbers": {
+    "question": "What phone number should I call?",
+    "answer": "You can call either of our main lines—817-518-9005 (Keller) or 940-799-3580 (Decatur). If you reach voicemail, please leave your name, date of birth, and best callback number."
   },
-  "parking": {
-    "question": "Is parking available?",
-    "answer": "Yes, free parking is available in our building garage. Enter from Oak Street and bring your parking ticket to our office for validation."
+  "providers": {
+    "question": "Who are the cardiologists?",
+    "answer": "Our cardiovascular team includes Dr. Saritha Dodla, MD, RPVI, FACC and Dr. Abdul Basit, MD, FACC, FSCAI. Both provide comprehensive heart and vascular care."
   },
-  "insurance": {
-    "question": "What insurance do you accept?",
-    "answer": "We accept most major insurance plans including Blue Cross Blue Shield, UnitedHealthcare, Aetna, and Cigna. Please call to verify your specific plan."
-  },
-  "new_patient": {
-    "question": "Do you accept new patients?",
-    "answer": "Yes, we're currently accepting new patients. Please bring your insurance card and a photo ID to your first appointment. Arrive 15 minutes early to complete paperwork."
+  "services": {
+    "question": "What services do you provide?",
+    "answer": "We diagnose and treat a full spectrum of heart and vascular conditions, and provide in-office testing such as vascular ultrasounds, echocardiograms, stress testing, and other cardiology procedures."
   },
   "appointments": {
     "question": "How do I schedule an appointment?",
-    "answer": "You can schedule an appointment by calling us, or I can help you schedule one right now. What day and time works best for you?"
+    "answer": "Call 817-518-9005 or 940-799-3580, or I can gather your details and have our scheduling team reach out with cardiology availability that fits your needs."
   },
-  "cancellation": {
-    "question": "What's your cancellation policy?",
-    "answer": "Please provide at least 24 hours notice if you need to cancel or reschedule. You can call us or use our patient portal to manage your appointments."
+  "new_patient": {
+    "question": "Do you accept new patients?",
+    "answer": "Yes—we’re accepting new cardiology patients. Please bring your insurance card, photo ID, current medication list, and arrive 15 minutes early to complete any forms."
   },
-  "telehealth": {
-    "question": "Do you offer telehealth?",
-    "answer": "Yes, we offer telehealth video visits for certain types of appointments. Please let us know if you'd prefer a virtual visit when scheduling."
+  "insurance": {
+    "question": "What insurance do you accept?",
+    "answer": "We work with most major insurance plans. Because coverage varies, please call our office and we’ll confirm benefits, or visit the Forms & Insurance section on our website for details."
+  },
+  "forms": {
+    "question": "Where can I find patient forms?",
+    "answer": "Visit the Forms & Insurance section of our website to download clinic forms, office policies, prescription refill instructions, and bill pay links."
+  },
+  "portal": {
+    "question": "Do you have a patient portal?",
+    "answer": "Yes—our patient portal lets you review results, send secure messages, and request refills. Let us know if you need an invitation email to enroll."
   },
   "prescriptions": {
-    "question": "How do I refill a prescription?",
-    "answer": "For prescription refills, please contact your pharmacy and they'll send a request to our office. You can also request refills through our patient portal. Allow 48 hours for processing."
-  },
-  "emergency": {
-    "question": "What if I have a medical emergency?",
-    "answer": "If you're experiencing a medical emergency, please hang up and call 911 or go to the nearest emergency room immediately."
+    "question": "How do I request a prescription refill?",
+    "answer": "Submit refill requests through your pharmacy or the patient portal. Please allow up to 48 business hours; urgent cardiac medication refills should be called in directly."
   },
   "after_hours": {
     "question": "What if I need help after hours?",
-    "answer": "For urgent medical issues after hours, please call our main number and follow the prompts to reach our on-call provider. For emergencies, call 911."
-  },
-  "forms": {
-    "question": "Where can I get forms?",
-    "answer": "Patient forms are available on our website at www.example.com/forms. You can also access them through our patient portal or pick them up at the front desk."
-  },
-  "records": {
-    "question": "How do I get my medical records?",
-    "answer": "To request medical records, please complete a records release form available on our website or at our office. We'll process your request within 30 days as required by law."
-  },
-  "payment": {
-    "question": "What payment methods do you accept?",
-    "answer": "We accept cash, checks, and all major credit cards. Payment is due at the time of service. We also offer payment plans for larger balances."
+    "answer": "If you develop urgent but non-emergent symptoms after 5 PM, call our main number and follow the prompts to reach the on-call provider. Dial 911 for any chest pain, shortness of breath, or emergency symptoms."
   },
   "billing": {
-    "question": "I have a billing question",
-    "answer": "For billing questions, please contact our billing department at (555) 123-4567 or billing@example.com. They're available Monday through Friday, 9 AM to 4 PM."
+    "question": "Who can help me with billing questions?",
+    "answer": "Call our main line during business hours and ask for the billing team—they can help with statements, insurance questions, and payment plans."
   }
 }
+
 
 
 
